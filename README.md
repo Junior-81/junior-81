@@ -7,7 +7,7 @@
 
 Sou um profissional de tecnologia apaixonado pelo desenvolvimento de soluções inovadoras e eficientes. Tenho experiência em diversas áreas da TI, desde o suporte técnico até o desenvolvimento fullstack. Atualmente, formado **Análise e Desenvolvimento de Sistemas** na **Faculdade Nova Roma (2022–2024)**; Cursando **Ciências da computação** na **Faculdade nova roma (2025-2026)**.
 
-Minha trajetória inclui projetos acadêmicos e pessoais, onde desenvolvi habilidades essenciais em programação, segurança cibernética e suporte técnico. Sempre busco aprimorar meus conhecimentos e contribuir para soluções tecnológicas eficientes.
+Minha trajetória inclui projetos para Prefeitura de Jaboatão dos Guasrarapes, acadêmicos, pessoais, onde desenvolvi habilidades essenciais em programação, segurança cibernética e suporte técnico. Sempre busco aprimorar meus conhecimentos e contribuir para soluções tecnológicas eficientes.
 <div align="center">
  
 <h2 align="center"> Linguagens e Ferramentas </h2>
@@ -46,7 +46,9 @@ Minha trajetória inclui projetos acadêmicos e pessoais, onde desenvolvi habili
 
 - **Cybersecurity Essentials - Cisco**
 - **Curso Web - Cod3r**
-- **Testes com JUnit 5, Mockito e Spring Boot**
+- **Testes com JUnit 5
+- **Spring Boot**
+- **java - Nelio alves**
 
 
 ## Conecte-se comigo 🌎

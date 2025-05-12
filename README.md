@@ -46,9 +46,8 @@ Minha trajetória inclui projetos para Prefeitura de Jaboatão dos Guasrarapes, 
 
 - **Cybersecurity Essentials - Cisco**
 - **Curso Web - Cod3r**
-- **Testes com JUnit 5
-- **Spring Boot**
 - **java - Nelio alves**
+- **Testes com JUnit 5**
 
 
 ## Conecte-se comigo 🌎
